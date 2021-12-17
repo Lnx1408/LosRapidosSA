@@ -15,6 +15,9 @@ namespace CapaPresentacion.Login
         public frmLogin()
         {
             InitializeComponent();
+            txtPassword.PasswordChar = '*';
+            
+
         }
 
         private void frmLogin_Load(object sender, EventArgs e)
