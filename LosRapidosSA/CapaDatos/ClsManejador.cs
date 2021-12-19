@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CapaDatos
 {
-    class Class2
+    public class ClsManejador
     {
     }
 }

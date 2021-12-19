@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ClsAmbulancia.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Usuario\clsUsuario.cs" />
   </ItemGroup>
@@ -52,7 +52,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Ambulancia\" />
     <Folder Include="Cliente\" />
     <Folder Include="Conductores\" />
   </ItemGroup>
