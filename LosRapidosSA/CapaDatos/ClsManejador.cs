@@ -8,5 +8,8 @@ namespace CapaDatos
 {
     public class ClsManejador
     {
+
+
+
     }
 }
