@@ -42,6 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ClsCliente.cs" />
+    <Compile Include="ClsPersona.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Usuario\clsUsuario.cs" />
   </ItemGroup>
@@ -53,7 +55,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Ambulancia\" />
-    <Folder Include="Cliente\" />
     <Folder Include="Conductores\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

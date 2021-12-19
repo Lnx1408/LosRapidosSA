@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaNegocio\obj\Debug\CapaNegocio.pdb

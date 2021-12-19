@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\LENOVO\Desktop\Rapidos S.A\LosRapidosSA\CapaDatos\obj\Debug\CapaDatos.pdb
