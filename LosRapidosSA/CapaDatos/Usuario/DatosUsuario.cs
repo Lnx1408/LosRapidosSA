@@ -8,5 +8,8 @@ namespace CapaDatos.Usuario
 {
     class DatosUsuario
     {
+        String Nombre;
+        String Password;
+        String fechaNacimiento;
     }
 }
