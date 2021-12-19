@@ -41,7 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="ClsDatosAmbulancia.cs" />
+    <Compile Include="ClsManejador.cs" />
+    <Compile Include="ClsParametrosAmbulancia.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Usuario\DatosUsuario.cs" />
+  </ItemGroup>
+  <ItemGroup />
+=======
     <Compile Include="Class1.cs" />
+    <Compile Include="ClsDatosCliente.cs" />
+    <Compile Include="ClsParametrosCliente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Usuario\DatosUsuario.cs" />
   </ItemGroup>
@@ -49,5 +60,6 @@
     <Folder Include="Ambulancia\" />
     <Folder Include="Conductores\" />
   </ItemGroup>
+>>>>>>> origin/Cliente
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
