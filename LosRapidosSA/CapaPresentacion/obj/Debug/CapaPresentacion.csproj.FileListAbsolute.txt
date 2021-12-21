@@ -12,3 +12,4 @@ C:\Users\tenem\Source\Repos\Lnx1408\LosRapidosSA\LosRapidosSA\CapaPresentacion\o
 C:\Users\tenem\Source\Repos\Lnx1408\LosRapidosSA\LosRapidosSA\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\tenem\Source\Repos\Lnx1408\LosRapidosSA\LosRapidosSA\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\tenem\Source\Repos\Lnx1408\LosRapidosSA\LosRapidosSA\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\tenem\Source\Repos\Lnx1408\LosRapidosSA\LosRapidosSA\CapaPresentacion\obj\Debug\CapaPresentacion.Menu.frmMenu.resources
